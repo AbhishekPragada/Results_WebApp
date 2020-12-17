@@ -4,9 +4,9 @@
 
 ## Contributors
 
-1. Alluri L S V Siddhartha Varma 
-2. V Pranav Reddy 
-3. Abhishek Pragada
++ Alluri L S V Siddhartha Varma 
++ V Pranav Reddy 
++ Abhishek Pragada
 
 
 ### Contact Details
