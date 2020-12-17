@@ -15,7 +15,3 @@
 + :email: pranav18100@iiitnr.edu.in
 + :email: abhishek18101@iiitnr.edu.in
 
-Hello World
-
-you are dumb
-Hello World 2
